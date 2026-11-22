@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Hafsa Ahmed 👋</h1>
 
-<!--
-**HafsaAhmed622/HafsaAhmed622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Aspiring Data Analysis & Data Engineer | Computer Science Student |
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+I'm a Computer Science student passionate about data analysis, data engineering,
+and building useful software. I enjoy turning raw data into insights and
+building web applications with clean, well-structured code.
+
+## 🛠 Tech Stack
+- **Languages:** Python, C++, Java, SQL, JavaScript
+- **Data:** Power BI, Tableau, SQL Server
+- **Web:** Django, HTML, CSS, JavaScript
+
+
+## 🌱 Currently Learning
+Data Engineering concepts, advanced SQL, and cloud for data.
+
+## 📫 Connect With Me
+- LinkedIn: [Hafsa Ahmed](https://www.linkedin.com/in/hafsa-ahmed-543461357/)
+- Email: kimhafsa622@gmail.com
